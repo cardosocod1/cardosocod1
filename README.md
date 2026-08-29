@@ -27,4 +27,4 @@ Email= [📧 Enviar e-mail](mailto:cardoso1cod@gmail.com)
 
 "Sempre aprendendo e evoluindo como desenvolvedor."
 
-Agora as três tecnologias principais são Python, HTML5 e Java.
+
