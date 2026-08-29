@@ -1,4 +1,8 @@
-## Hi there 👋
+# Olá, eu sou o Davi Cardoso !
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python, HTML e JAVA
+- Preparando-se para o mercado de tecnologia
+- Contato: cardoso1cod@gmail.com
 
 <!--
 **cardosocod1/cardosocod1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
