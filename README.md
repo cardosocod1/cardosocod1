@@ -23,7 +23,7 @@ Contato
 
 Linkedin= www.linkedin.com/in/davi-cardoso-cod1245482432
 GitHub= https://github.com/cardosocod1
-Email= [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:cardoso1cod@gmail.com) 
+Email= mailto:cardoso1cod@gmail.com
 
 
 
