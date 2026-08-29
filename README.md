@@ -1,7 +1,9 @@
 
 Olá, eu sou [Davi Cardoso] 👋
 
-Estudante de Desenvolvimento de Sistemas | Python | HTML | Java
+Estudante de Desenvolvimento de Sistemas | `Python` | HTML | Java
+
+
 
 Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas e desenvolvendo minhas habilidades em programação e desenvolvimento web.
 
