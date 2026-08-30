@@ -21,10 +21,11 @@ GitHub
 
 Contato
 
-Linkedin= www.linkedin.com/in/davi-cardoso-cod1245482432
-GitHub= https://github.com/cardosocod1
-Email= mailto:cardoso1cod@gmail.com
+## Contato
 
+[![Gmail](https://shields.io)](mailto:cardoso1cod@gmail.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/davi-cardoso-cod1245482432)
+[![GitHub](https://shields.io)](https://github.com/cardosocod1)
 
 
 
